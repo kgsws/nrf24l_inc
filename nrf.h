@@ -30,7 +30,7 @@
 // read Rx size
 #define NCMD_R_RX_PL_WID	0b01100000
 // reuse payload
-#define REUSE_TX_PL	0b11100011
+#define NCMD_REUSE_TX_PL	0b11100011
 
 
 /* registers */
